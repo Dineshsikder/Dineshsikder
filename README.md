@@ -20,4 +20,4 @@ Profile Visitors
 👨‍💻[Portfolio](https://dineshsikder.github.io/)
 💕[Instagram](https://www.instagram.com/dinesh_sikder/)
 🙌[Linked In](https://www.linkedin.com/in/dinesh-sikder-42886111a/)
-🔍[facebook](https://www.facebook.com/dinesh.sikder1)
+🔍[blog](https://www.dstechguru.com/)
