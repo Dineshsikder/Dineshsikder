@@ -1,5 +1,5 @@
 <h1 style="color:#fcef88"> <b>👋🏻 Hey! I'm Dinesh Sikder </b></h1>
-<h2> 👨‍💻 Software Engineer at <a href="https://www.bluespacelabs.com/">Bluespacelabs</a>.<h2>
+<h2> 👨‍💻 Senior Software Engineer (Full Stack Developer) at <a href="https://www.nagarro.com/en">Nagarro</a>.<h2>
 
 Here are some ideas to get you started:
 
