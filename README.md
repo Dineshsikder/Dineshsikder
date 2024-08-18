@@ -8,9 +8,12 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on a SaaS product that helps streamline business processes.
-- 🌱 I’m diving deep into DevOps to enhance my skills in CI/CD, containerization, and cloud deployments.
-- 👯 I’m open to collaborating on innovative applications that solve real-world problems.
+- I’m a passionate full-stack developer and an AI/ML enthusiast constantly exploring new technologies and building innovative solutions. Whether it's creating a scalable SaaS product or diving deep into the intricacies of AI/ML, I’m always eager to learn and grow.
+
+🌟 What I'm Up To:
+- 🔭 Currently working on a SaaS product that aims to solve real-world challenges.
+- 🌱 Deepening my knowledge in AI/ML to unlock new potentials in intelligent applications.
+- 👯 Looking to collaborate on exciting projects and make impactful applications.
 
 ---
 
