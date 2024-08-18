@@ -1,23 +1,32 @@
-<h1 style="color:#fcef88"> <b>👋🏻 Hey! I'm Dinesh Sikder </b></h1>
-<h2> 👨‍💻 Associate Staff Engineer (Full Stack Developer) at <a href="https://www.nagarro.com/en">Nagarro</a>.<h2>
+<h1 align="center" style="color:#fcef88">👋🏻 Hey! I'm <b>Dinesh Sikder</b></h1>
+<h2 align="center">👨‍💻 Associate Staff Engineer (Full Stack Developer) at <a href="https://www.nagarro.com/en" target="_blank">Nagarro</a></h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a focus on building scalable and efficient applications.
+</p>
 
-- 🔭 I’m currently working on a Saas Product
-- 🌱 I’m currently learning DevOps
-- 👯 I’m looking to collaborate on making some application
+---
 
-<center>
-<h3 style="color:red" align="center"> 
-Profile Visitors
-<br>
-<img align="center" src="https://profile-counter.glitch.me/{Dineshsikder}/count.svg" alt="Dinesh Sikder :: Visitor's Count" />
-</h3>
-</center>
+### 🚀 About Me
+- 🔭 I’m currently working on a SaaS product that helps streamline business processes.
+- 🌱 I’m diving deep into DevOps to enhance my skills in CI/CD, containerization, and cloud deployments.
+- 👯 I’m open to collaborating on innovative applications that solve real-world problems.
 
-## Important Links
+---
 
-👨‍💻[Portfolio](https://dineshsikder.github.io/)
-💕[Instagram](https://www.instagram.com/dinesh_sikder/)
-🙌[Linked In](https://www.linkedin.com/in/dinesh-sikder-42886111a/)
-🔍[blog](https://www.dstechguru.com/)
+### 📊 Profile Visitors
+<p align="center">
+  <img align="center" src="https://profile-counter.glitch.me/{Dineshsikder}/count.svg" alt="Dinesh Sikder :: Visitor's Count" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+- 👨‍💻 [Portfolio](https://dineshsikder.github.io/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dinesh-sikder-42886111a/)
+- 💬 [Instagram](https://www.instagram.com/dinesh_sikder/)
+- 📝 [Blog](https://www.dstechguru.com/)
+
+---
+
+Thank you for visiting my GitHub profile! Feel free to explore my repositories, and let's connect if you share similar interests or have exciting projects in mind!
