@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#fcef88">👋🏻 Hey! I'm <b>Dinesh Sikder</b></h1>
+<h1 align="center" style="color:#fcef88">👋🏻 Hey! I'm <b>Dineshh Sikderr</b></h1>
 <h2 align="center">👨‍💻 Associate Staff Engineer (Full Stack Developer) at <a href="https://www.nagarro.com/en" target="_blank">Nagarro</a></h2>
 
 <p align="center">
